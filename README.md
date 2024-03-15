@@ -15,7 +15,7 @@ To run this example locally, make sure you have Rust installed. Then, follow the
 2. Navigate to the project directory:
 
    ```bash
-   cd actix-web-hello-world
+   cd Http-Server-Rust
    ```
 
 3. Build and run the project:
